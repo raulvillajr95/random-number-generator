@@ -1,0 +1,20 @@
+section {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
+}
+#title {
+  text-align: center;
+}
+#nums {
+  text-align: center;
+}
+#generate {
+  width: 5rem;
+  height: 1.5rem;
+  justify-self: center;
+}
+#value {
+  text-align: center;
+  font-size: 1.75rem;
+}
