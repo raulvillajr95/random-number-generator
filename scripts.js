@@ -15,12 +15,6 @@ generateBtn.addEventListener('click', () => {
 });
 
 /*
-ideas:
-center everything in a fixed position
-  possibly grid
-custom font
-color scheme
-
 maybe:
 clear button
 */
